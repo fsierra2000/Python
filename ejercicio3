@@ -1,0 +1,8 @@
+def main():
+
+numeros = [x for x in range (1001) if '6' in str (x)]
+print (numeros)
+
+if __name__ == '__main__':
+
+   main()
